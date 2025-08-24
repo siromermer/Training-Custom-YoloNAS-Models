@@ -1,4 +1,4 @@
-## Article About this pipeline : https://medium.com/@siromermer/pipeline-for-training-custom-yolo-nas-models-1aa96248d500
+## Article About this pipeline : https://visionbrick.com/pipeline-for-training-custom-yolo-nas-object-detection-models/
 
  <br> <br>
 Model file was to big for github . I will share it as drive link, and if you want to test model  you can download it and make predictions. <br>
